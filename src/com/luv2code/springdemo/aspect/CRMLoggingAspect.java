@@ -71,4 +71,8 @@ public final class CRMLoggingAspect {
 		
 	}
 	
+	public void someChanges() {
+		System.out.println("Do Nothing");
+	}
+	
 }
